@@ -1,0 +1,10 @@
+{
+  "prothomalo": {
+    "rss": "https://prod-qt-images.s3.amazonaws.com/production/prothomalo-bangla/feed.xml",
+    "link": "https://www.prothomalo.com/"
+  },
+  "jugantor": {
+    "rss": "https://www.jugantor.com/feed/rss.xml",
+    "link": "https://www.jugantor.com/"
+  }
+}
